@@ -2,7 +2,7 @@
   "name": "slicks-fswalker",
   "version": "1.0.0",
   "description": "This module helps to recursively list file system by various methods; it allows wildcards, globs and file names.",
-  "main": "dist/walker",
+  "main": "dist/fswalker",
   "scripts": {
     "test": "mocha .tests/walker_tests.j"
   },
